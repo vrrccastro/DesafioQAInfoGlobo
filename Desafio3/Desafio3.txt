@@ -1,0 +1,29 @@
+Exercício 3:
+
+
+Chamando o método calc, com os parâmetros ("addition", 10, 10), o
+retorno deve ser 20.
+
+Chamando o método calc, com os parâmetros ("subtraction", 10, 10), o
+retorno deve ser 0.
+
+Chamando o método calc, com os parâmetros ("multiplication", 10, 10), o
+retorno deve ser 100.
+
+Chamando o método calc, com os parâmetros ("division", 10, 10), o
+retorno deve ser 1.
+
+Chamando o método calc, com os parâmetros ("addition", -10, -10), o
+retorno deve ser -20.
+
+Chamando o método calc, com os parâmetros ("subtraction", 10, 20), o
+retorno deve ser -10.
+
+Chamando o método calc, com os parâmetros ("multiplication", 2, -5), o
+retorno deve ser -10.
+
+Chamando o método calc, com os parâmetros ("division", -36, 2), o
+retorno deve ser -18.
+
+Chamando o método calc, com os parâmetros ("erro", 5, 5), o
+retorno deve ser undefined.
