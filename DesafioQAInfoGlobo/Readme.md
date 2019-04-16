@@ -10,4 +10,4 @@
 
 6 - No Eclipse, clicar em "File", "Import", "General", "Existing Projects into Workspace", marcar a opção "Select root directory", "Browse", apontar o caminho da pasta descompactada no passo 3, selecionar a pasta "DesafioQAInfoGlobo", marcar o único checkbox em "Projects" e depois, "Finish".
 
-Expandir o projeto importado, expandir a "pasta src/test/java", expandir o package "runners", clicar com o botão direito no arquivo "Runner.java" e por fim, "Run as JUnit Test.
+7 - Expandir o projeto importado, expandir a "pasta src/test/java", expandir o package "runners", clicar com o botão direito no arquivo "Runner.java" e por fim, "Run as JUnit Test.
